@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493334114 source:c:\users\przemek\desktop\cb\winapi_poczatek\main.cpp
+	<windows.h>
+	<cstdlib>
+	<sstream>
+
